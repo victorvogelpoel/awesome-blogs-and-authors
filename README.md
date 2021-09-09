@@ -1,18 +1,24 @@
-# Awesome blogs and authors  [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+# Awesome blogs and authors <!-- omit in toc -->
+
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 A curated list of delightful blog and author resources.
 
-## Content
+## Table of contents <!-- omit in toc -->
 
-- [.NET](#.NET)
-- [Engineering](#Engineering)
-- [Peopleware](#Peopleware)
+- [.NET](#net)
+- [Engineering](#engineering)
+- [Peopleware](#peopleware)
+- [Software Engineering](#software-engineering)
+- [Software Architecture](#software-architecture)
+- [Thinking better](#thinking-better)
 - [Misc](#misc)
 
 ## .NET
 
 - [https://www.stevejgordon.co.uk/](https://www.stevejgordon.co.uk/) - code with steve
 - [https://nmillard.medium.com/](https://nmillard.medium.com/) - Niclas Millard
+- [https://www.thereformedprogrammer.net/](https://www.thereformedprogrammer.net/) - Jon P Smith 
 
 ## Engineering
 
@@ -28,6 +34,15 @@ A curated list of delightful blog and author resources.
 - [https://thehosk.medium.com/](https://thehosk.medium.com/) - the Hosk
   - [https://thehosk.medium.com/software-development-is-a-losers-game-fc68bb30d7eb](Software development is a losers game)
 - [https://nmillard.medium.com/](https://nmillard.medium.com/) - Niclas Millard
+- [https://simplicable.com/new/software-development](https://simplicable.com/new/software-development) - Simplicable - Software development
+
+## Software Architecture
+
+- [https://simplicable.com/new/software-architecture](https://simplicable.com/new/software-architecture) - Simplicable - Software Architecture
+
+## Thinking better
+
+- [Tools for thinking better](https://untools.co/)
 
 ## Misc
 
