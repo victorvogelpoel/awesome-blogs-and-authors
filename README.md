@@ -7,11 +7,15 @@ A curated list of delightful blog and author resources.
 ## Table of contents <!-- omit in toc -->
 
 - [.NET](#net)
+- [Agile](#agile)
 - [Engineering](#engineering)
-- [Peopleware](#peopleware)
+- [Food for thought](#food-for-thought)
+- [Insights](#insights)
+- [Personal development](#personal-development)
 - [Software Engineering](#software-engineering)
 - [Software Architecture](#software-architecture)
 - [Thinking better](#thinking-better)
+- [Wetware](#wetware)
 - [Misc](#misc)
 
 ## .NET
@@ -20,29 +24,53 @@ A curated list of delightful blog and author resources.
 - [https://nmillard.medium.com/](https://nmillard.medium.com/) - Niclas Millard
 - [https://www.thereformedprogrammer.net/](https://www.thereformedprogrammer.net/) - Jon P Smith 
 
+## Agile
+
+- [https://twitter.com/allenholub](https://twitter.com/allenholub) - help build software better & build better software - Allen Holub
+
 ## Engineering
 
 - [https://blog.pragmaticengineer.com/](https://blog.pragmaticengineer.com/) - Software. People. Problems. Ideas. Engineering. - Gergely Orosz
 
-## Peopleware
+## Food for thought
 
-- [https://blog.pragmaticengineer.com/](https://blog.pragmaticengineer.com/) - Software. People. Problems. Ideas. Engineering. - Gergely Orosz
+- [https://twitter.com/orangebook_](https://twitter.com/orangebook_) - Thoughts triggering thoughts. Learning on the go
+- [https://twitter.com/naval](https://twitter.com/naval)
+- [https://twitter.com/simonsinek](https://twitter.com/simonsinek) - inspire someone every single day.
+- [https://twitter.com/visualizevalue](https://twitter.com/visualizevalue)
+
+## Insights
+
+- [https://twitter.com/RichRogers_](https://twitter.com/RichRogers_) - Founder & CEO of @XemelgoInc
+- [https://twitter.com/ValaAfshar](https://twitter.com/ValaAfshar) - Chief digital evangelist @Salesforce
+
+## Personal development
+
+- [https://timdenning.medium.com](https://timdenning.medium.com) - Inspiring the world through personal development and entepreneurship - Tim Denning
 
 ## Software Engineering
 
-- [https://www.continuousimprover.com/](https://www.continuousimprover.com/) - Dennis Doomen
-- [https://thehosk.medium.com/](https://thehosk.medium.com/) - the Hosk
+- [https://www.continuousimprover.com/](https://www.continuousimprover.com/) Dennis is a veteran architect in the .NET space with a special interest in writing clean code, Domain Driven Design, Event Sourcing and everything agile - Dennis Doomen
+- [https://ddoomen.medium.com/](https://ddoomen.medium.com/) - Dennis is a veteran architect in the .NET space with a special interest in writing clean code, Domain Driven Design, Event Sourcing and everything agile - Dennis Doomen
+- [https://thehosk.medium.com/](https://thehosk.medium.com/) Software dev (C#, Java) → Solution architect Dynamics 365, Power platform on enterprise projects | Avid reader | Life long learner - the Hosk
   - [https://thehosk.medium.com/software-development-is-a-losers-game-fc68bb30d7eb](Software development is a losers game)
-- [https://nmillard.medium.com/](https://nmillard.medium.com/) - Niclas Millard
+- [https://nmillard.medium.com/](https://nmillard.medium.com/) MSc. | Tech writer with +1M views. Sharing my opinion and what I learn. .NET backend engineer - Niclas Millard
 - [https://simplicable.com/new/software-development](https://simplicable.com/new/software-development) - Simplicable - Software development
+- [https://twitter.com/allenholub](https://twitter.com/allenholub) - help build software better & build better software - Allen Holub
 
 ## Software Architecture
 
 - [https://simplicable.com/new/software-architecture](https://simplicable.com/new/software-architecture) - Simplicable - Software Architecture
+- [https://twitter.com/Grady_Booch](https://twitter.com/Grady_Booch) - scientist, storyteller, philosopher
 
 ## Thinking better
 
 - [Tools for thinking better](https://untools.co/)
+
+## Wetware
+
+- [https://blog.pragmaticengineer.com/](https://blog.pragmaticengineer.com/) - Software. People. Problems. Ideas. Engineering. - Gergely Orosz
+- [https://twitter.com/allenholub](https://twitter.com/allenholub) - help build software better & build better software - Allen Holub
 
 ## Misc
 
