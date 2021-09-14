@@ -1,36 +1,49 @@
-function Test-MarkdownLinks([String]$Path) {
-    $unreachable = @()
+function Test-MarkdownLinks([String]$Path)
+{
+    $unreachableLinks = @()
+
     # Get markdown files recursively
     $files = Get-ChildItem -Path $Path -Recurse -Include "*.md"
 
-    $files | ForEach-Object {
-        $fileName = $_.Name
-        Write-Host "Analyzing $fileName"
+    foreach ($file in $files)
+    {
+        $fileName = $file.Name
+        Write-Host "Analyzing `"$fileName`""
 
-        $urls = Select-String -Path $_ -Pattern "\[.+\]\((http.*?)\)" | ForEach-Object { $_.matches.Groups[1] } | Select-Object
+        $urls = Select-String -Path $file -Pattern "\[.+\]\((http.*?)\)(<!--.+-->)?" | where { $_.matches.Groups[1].Success -and $_.matches.Groups[2].Value -ne '<!-- omit in link analyzer -->'} | foreach { $_.matches.Groups[1].Value }
 
-        $urls | ForEach-Object {
-            $url = $_.Value
+        foreach ($url in $urls)
+        {
             Write-Host "Requesting url $url"
 
-            try {
+            try
+            {
                 $request = Invoke-WebRequest -Uri $url -DisableKeepAlive -UseBasicParsing
-            } catch {
+            }
+            catch
+            {
                 Write-Warning -Message "Found dead url $url in $fileName"
-                $unreachable += $url
+
+                $unreachableLinks += $url
             }
         }
     }
 
     # Output urls
-    return $unreachable
+    return $unreachableLinks
 }
 
-$DeadLinks = Test-MarkdownLinks -Path "."
-if ($DeadLinks) {
+
+$deadLinks = Test-MarkdownLinks -Path "."
+
+if ($deadLinks)
+{
     Write-Host -Object '--- DEAD LINKS FOUND ---' -ForegroundColor Red
-    foreach ($DeadLink in $DeadLinks) {
-        Write-Host -Object $DeadLink -ForegroundColor Red
+
+    foreach ($deadLink in $deadLinks)
+    {
+        Write-Host $deadLink -ForegroundColor Red
     }
+
     exit 1
 }

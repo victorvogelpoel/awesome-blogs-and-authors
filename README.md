@@ -53,14 +53,14 @@ A curated list of delightful blog and author resources.
 - [https://www.continuousimprover.com/](https://www.continuousimprover.com/) Dennis is a veteran architect in the .NET space with a special interest in writing clean code, Domain Driven Design, Event Sourcing and everything agile - Dennis Doomen
 - [https://ddoomen.medium.com/](https://ddoomen.medium.com/) - Dennis is a veteran architect in the .NET space with a special interest in writing clean code, Domain Driven Design, Event Sourcing and everything agile - Dennis Doomen
 - [https://thehosk.medium.com/](https://thehosk.medium.com/) Software dev (C#, Java) → Solution architect Dynamics 365, Power platform on enterprise projects | Avid reader | Life long learner - the Hosk
-  - [https://thehosk.medium.com/software-development-is-a-losers-game-fc68bb30d7eb](Software development is a losers game)
+  - [Software development is a losers game](https://thehosk.medium.com/software-development-is-a-losers-game-fc68bb30d7eb)
 - [https://nmillard.medium.com/](https://nmillard.medium.com/) MSc. | Tech writer with +1M views. Sharing my opinion and what I learn. .NET backend engineer - Niclas Millard
-- [https://simplicable.com/new/software-development](https://simplicable.com/new/software-development) - Simplicable - Software development
+- [https://simplicable.com/new/software-development](https://simplicable.com/new/software-development)<!-- omit in link analyzer --> - Simplicable - Software development
 - [https://twitter.com/allenholub](https://twitter.com/allenholub) - help build software better & build better software - Allen Holub
 
 ## Software Architecture
 
-- [https://simplicable.com/new/software-architecture](https://simplicable.com/new/software-architecture) - Simplicable - Software Architecture
+- [https://simplicable.com/new/software-architecture](https://simplicable.com/new/software-architecture)<!-- omit in link analyzer --> - Simplicable - Software Architecture
 - [https://twitter.com/Grady_Booch](https://twitter.com/Grady_Booch) - scientist, storyteller, philosopher
 
 ## Thinking better
