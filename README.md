@@ -23,6 +23,7 @@ A curated list of delightful blog and author resources.
 - [https://www.stevejgordon.co.uk/](https://www.stevejgordon.co.uk/) - code with steve
 - [https://nmillard.medium.com/](https://nmillard.medium.com/) - Niclas Millard
 - [https://www.thereformedprogrammer.net/](https://www.thereformedprogrammer.net/) - Jon P Smith 
+- [https://codeopinion.com/](https://codeopinion.com/) - Derek Comartin
 
 ## Agile
 
