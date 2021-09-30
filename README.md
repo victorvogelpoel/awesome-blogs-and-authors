@@ -24,6 +24,8 @@ A curated list of delightful blog and author resources.
 - [https://nmillard.medium.com/](https://nmillard.medium.com/) - Niclas Millard
 - [https://www.thereformedprogrammer.net/](https://www.thereformedprogrammer.net/) - Jon P Smith 
 - [https://codeopinion.com/](https://codeopinion.com/) - Derek Comartin
+- [https://tooslowexception.com/](https://tooslowexception.com/) - PERFORMANCE, ARCHITECTURE, SOFTWARE CRAFTMANSHIP - Konrad Kokosa
+- [https://khalidabuhakmeh.com/](https://khalidabuhakmeh.com/) - ABUHAKMEH
 
 ## Agile
 
@@ -63,6 +65,9 @@ A curated list of delightful blog and author resources.
 
 - [https://simplicable.com/new/software-architecture](https://simplicable.com/new/software-architecture)<!-- omit in link analyzer --> - Simplicable - Software Architecture
 - [https://twitter.com/Grady_Booch](https://twitter.com/Grady_Booch) - scientist, storyteller, philosopher
+- [https://twitter.com/allenholub](https://twitter.com/allenholub) - help build software better & build better software - Allen Holub
+- [https://enterprisecraftsmanship.com/](https://enterprisecraftsmanship.com/) - building better software by Vladimir Khorikov
+- [http://www.kamilgrzybek.com/](http://www.kamilgrzybek.com/) - Programming and designing enterprise solutions with .NET - Kamil Grzybek
 
 ## Thinking better
 
