@@ -23,9 +23,11 @@ A curated list of delightful blog and author resources.
 - [https://www.stevejgordon.co.uk/](https://www.stevejgordon.co.uk/) - code with steve
 - [https://nmillard.medium.com/](https://nmillard.medium.com/) - Niclas Millard
 - [https://www.thereformedprogrammer.net/](https://www.thereformedprogrammer.net/) - Jon P Smith 
-- [https://codeopinion.com/](https://codeopinion.com/) - Derek Comartin
+- [https://codeopinion.com/](https://codeopinion.com/) - Derek Comartin - Software architecture and design
 - [https://tooslowexception.com/](https://tooslowexception.com/) - PERFORMANCE, ARCHITECTURE, SOFTWARE CRAFTMANSHIP - Konrad Kokosa
 - [https://khalidabuhakmeh.com/](https://khalidabuhakmeh.com/) - ABUHAKMEH
+- [https://ardalis.com](https://ardalis.com) - Steve Smit - Become a better developer
+- [Youtube channel Ardalis](https://www.youtube.com/c/Ardalis) - Steve Smith - Tech and learning
 
 ## Agile
 
@@ -61,6 +63,9 @@ A curated list of delightful blog and author resources.
 - [https://simplicable.com/new/software-development](https://simplicable.com/new/software-development)<!-- omit in link analyzer --> - Simplicable - Software development
 - [https://twitter.com/allenholub](https://twitter.com/allenholub) - help build software better & build better software - Allen Holub
 - [http://www.bennorthrop.com/](http://www.bennorthrop.com/) - Ben Northrop - Software Architect and Full Stack Developer
+- [Youtube channel ContinuousDelivery](https://www.youtube.com/c/ContinuousDelivery) - Dave Farley - Better Software Faster
+- [Youtube channel Nick Chapsas](https://www.youtube.com/c/Elfocrash) - Nick Chapsas - Enterprise grade coding & cloud tutorials for every level
+- [Youtube channel Training By Tim](https://www.youtube.com/user/IAmTimCorey) - Tim Corey - Training by Tim
 
 ## Software Architecture
 
@@ -69,6 +74,10 @@ A curated list of delightful blog and author resources.
 - [https://twitter.com/allenholub](https://twitter.com/allenholub) - help build software better & build better software - Allen Holub
 - [https://enterprisecraftsmanship.com/](https://enterprisecraftsmanship.com/) - building better software by Vladimir Khorikov
 - [http://www.kamilgrzybek.com/](http://www.kamilgrzybek.com/) - Programming and designing enterprise solutions with .NET - Kamil Grzybek
+- [https://ardalis.com](https://ardalis.com) - Steve Smit - Become a better developer
+- [Youtube channel Ardalis](https://www.youtube.com/c/Ardalis) - Steve Smith - Tech and learning
+- [https://codeopinion.com/](https://codeopinion.com/) - Derek Comartin - Software architecture and design
+- [Youtube channel codeopinion](https://www.youtube.com/channel/UC3RKA4vunFAfrfxiJhPEplw) - Derek Comartin - Software architecture and design
 
 ## Thinking better
 
