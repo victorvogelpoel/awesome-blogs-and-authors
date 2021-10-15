@@ -60,6 +60,7 @@ A curated list of delightful blog and author resources.
 - [https://nmillard.medium.com/](https://nmillard.medium.com/) MSc. | Tech writer with +1M views. Sharing my opinion and what I learn. .NET backend engineer - Niclas Millard
 - [https://simplicable.com/new/software-development](https://simplicable.com/new/software-development)<!-- omit in link analyzer --> - Simplicable - Software development
 - [https://twitter.com/allenholub](https://twitter.com/allenholub) - help build software better & build better software - Allen Holub
+- [http://www.bennorthrop.com/](http://www.bennorthrop.com/) - Ben Northrop - Software Architect and Full Stack Developer
 
 ## Software Architecture
 
