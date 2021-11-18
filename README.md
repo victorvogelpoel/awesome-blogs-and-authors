@@ -7,6 +7,7 @@ A curated list of delightful blog and author resources.
 ## Table of contents <!-- omit in toc -->
 
 - [.NET](#net)
+- [.NET links / News](#net-links--news)
 - [Agile](#agile)
 - [Engineering](#engineering)
 - [Food for thought](#food-for-thought)
@@ -32,8 +33,16 @@ A curated list of delightful blog and author resources.
 - [https://www.hanselman.com/blog/](https://www.hanselman.com/blog/) - Scott Hanselman
 - [Youtube channel Scott Hanselman](https://www.youtube.com/c/shanselman) - videos Scott Hanselman
 - [.NET App developer links](https://links.danrigby.com/) - The latest news and resources for .NET app developers by Dan Rigby
-- [The Morning brew links](https://blog.cwa.me.uk/) - Software | Information | Community by Chris Alcock
+- [Meziantou](https://www.meziantou.net/archives.htm) - GÉRALD BARRÉ aka meziantou
   
+## .NET links / News
+
+- [Meziantou Dev News](https://www.meziantou.net/news-links.htm) - Dev news by GÉRALD BARRÉ aka meziantou
+- [The Morning brew links](https://blog.cwa.me.uk/) - Software | Information | Community by Chris Alcock
+- [Tech lead digest](https://techleaddigest.net/digests) - Weekly news for busy techies - Tech Lead Digest is a weekly newsletter with five interesting stories about building teams 🤼, leadership 👨‍✈️, and engineering culture 🕺🏻. 
+- [C# digest](https://csharpdigest.net/digests) - Weekly news for busy techies - C# Digest is a weekly newsletter with the five most interesting stories 🗞 in .NET and C# 
+- [Software lead weekly](https://softwareleadweekly.com/) - SWLW - A weekly email for busy people who care about people, culture and leadership by Oren Ellenbogen
+
 ## Agile
 
 - [https://twitter.com/allenholub](https://twitter.com/allenholub) - help build software better & build better software - Allen Holub
