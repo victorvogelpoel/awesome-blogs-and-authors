@@ -41,12 +41,12 @@ A curated list of delightful blog and author resources.
 - [Jaliya's blog](https://jaliyaudagedara.blogspot.com) - by jaliya Udagedara 
 - [.NET NAKAMA](https://www.dotnetnakama.com/) - by Ioannis
 - [Damien Bod - Software Engineering](https://damienbod.com/)
-- [https://blog.georgekosmidis.net/](https://blog.georgekosmidis.net/) - by George Kosmidis - Microsoft MVP | Cloud Solutions Architect | .NET Software Engineer | Organizer of Munich .NET Meetup | Speaker
+- [https://blog.georgekosmidis.net/](https://blog.georgekosmidis.net/) - by George Kosmidis - Microsoft MVP | Cloud Solutions Architect - .NET Software Engineer - Organizer of Munich .NET Meetup | Speaker
   
 ## .NET links / News
 
 - [Meziantou Dev News](https://www.meziantou.net/news-links.htm) - Dev news by GÉRALD BARRÉ aka meziantou
-- [The Morning brew links](https://blog.cwa.me.uk/) - Software | Information | Community by Chris Alcock
+- [The Morning brew links](https://blog.cwa.me.uk/) - Software - Information - Community by Chris Alcock
 - [Tech lead digest](https://techleaddigest.net/digests) - Weekly news for busy techies - Tech Lead Digest is a weekly newsletter with five interesting stories about building teams 🤼, leadership 👨‍✈️, and engineering culture 🕺🏻. 
 - [C# digest](https://csharpdigest.net/digests) - Weekly news for busy techies - C# Digest is a weekly newsletter with the five most interesting stories 🗞 in .NET and C# 
 - [Software lead weekly](https://softwareleadweekly.com/) - SWLW - A weekly email for busy people who care about people, culture and leadership by Oren Ellenbogen
@@ -82,7 +82,7 @@ A curated list of delightful blog and author resources.
 - [https://ddoomen.medium.com/](https://ddoomen.medium.com/) - Dennis is a veteran architect in the .NET space with a special interest in writing clean code, Domain Driven Design, Event Sourcing and everything agile - Dennis Doomen
 - [https://thehosk.medium.com/](https://thehosk.medium.com/) Software dev (C#, Java) → Solution architect Dynamics 365, Power platform on enterprise projects - Avid reader - Life long learner - the Hosk
   - [Software development is a losers game](https://thehosk.medium.com/software-development-is-a-losers-game-fc68bb30d7eb)
-- [https://nmillard.medium.com/](https://nmillard.medium.com/) MSc. | Tech writer with +1M views. Sharing my opinion and what I learn. .NET backend engineer - Niclas Millard
+- [https://nmillard.medium.com/](https://nmillard.medium.com/) MSc. - Tech writer with +1M views. Sharing my opinion and what I learn. .NET backend engineer - Niclas Millard
 - [https://simplicable.com/new/software-development](https://simplicable.com/new/software-development)<!-- omit in link analyzer --> - Simplicable - Software development
 - [https://twitter.com/allenholub](https://twitter.com/allenholub) - help build software better & build better software - Allen Holub
 - [http://www.bennorthrop.com/](http://www.bennorthrop.com/) - Ben Northrop - Software Architect and Full Stack Developer
