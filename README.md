@@ -41,7 +41,7 @@ A curated list of delightful blog and author resources.
 - [Jaliya's blog](https://jaliyaudagedara.blogspot.com) - by jaliya Udagedara 
 - [.NET NAKAMA](https://www.dotnetnakama.com/) - by Ioannis
 - [Damien Bod - Software Engineering](https://damienbod.com/)
-- [https://blog.georgekosmidis.net/](https://blog.georgekosmidis.net/) - by George Kosmidis - Microsoft MVP | Cloud Solutions Architect - .NET Software Engineer - Organizer of Munich .NET Meetup | Speaker
+- [https://blog.georgekosmidis.net/](https://blog.georgekosmidis.net/) - by George Kosmidis - Microsoft MVP - Cloud Solutions Architect - .NET Software Engineer - Organizer of Munich .NET Meetup - Speaker
   
 ## .NET links / News
 
