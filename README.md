@@ -34,6 +34,14 @@ A curated list of delightful blog and author resources.
 - [Youtube channel Scott Hanselman](https://www.youtube.com/c/shanselman) - videos Scott Hanselman
 - [.NET App developer links](https://links.danrigby.com/) - The latest news and resources for .NET app developers by Dan Rigby
 - [Meziantou](https://www.meziantou.net/archives.htm) - GÉRALD BARRÉ aka meziantou
+- [Dotnet Tips](https://dotnettips.wordpress.com/)
+- [Andrew Lock .NET Escapades](https://andrewlock.net/) - .NET Escapades by Andrew Lock
+- [.NET Core tutorials](https://dotnetcoretutorials.com/) - by Wade from South Island (NZ)
+- [Anthony Giretti's .NET blog](https://anthonygiretti.com/) - Ain't no mountain high enough
+- [Jaliya's blog](https://jaliyaudagedara.blogspot.com) - by jaliya Udagedara 
+- [.NET NAKAMA](https://www.dotnetnakama.com/) - by Ioannis
+- [Damien Bod - Software Engineering](https://damienbod.com/)
+- [https://blog.georgekosmidis.net/](https://blog.georgekosmidis.net/) - by George Kosmidis - Microsoft MVP | Cloud Solutions Architect | .NET Software Engineer | Organizer of Munich .NET Meetup | Speaker
   
 ## .NET links / News
 
@@ -42,6 +50,7 @@ A curated list of delightful blog and author resources.
 - [Tech lead digest](https://techleaddigest.net/digests) - Weekly news for busy techies - Tech Lead Digest is a weekly newsletter with five interesting stories about building teams 🤼, leadership 👨‍✈️, and engineering culture 🕺🏻. 
 - [C# digest](https://csharpdigest.net/digests) - Weekly news for busy techies - C# Digest is a weekly newsletter with the five most interesting stories 🗞 in .NET and C# 
 - [Software lead weekly](https://softwareleadweekly.com/) - SWLW - A weekly email for busy people who care about people, culture and leadership by Oren Ellenbogen
+- [Dotnetkicks](https://dotnetkicks.com/) - a hand-picked round up of the best .NET articles every day
 
 ## Agile
 
@@ -71,7 +80,7 @@ A curated list of delightful blog and author resources.
 
 - [https://www.continuousimprover.com/](https://www.continuousimprover.com/) Dennis is a veteran architect in the .NET space with a special interest in writing clean code, Domain Driven Design, Event Sourcing and everything agile - Dennis Doomen
 - [https://ddoomen.medium.com/](https://ddoomen.medium.com/) - Dennis is a veteran architect in the .NET space with a special interest in writing clean code, Domain Driven Design, Event Sourcing and everything agile - Dennis Doomen
-- [https://thehosk.medium.com/](https://thehosk.medium.com/) Software dev (C#, Java) → Solution architect Dynamics 365, Power platform on enterprise projects | Avid reader | Life long learner - the Hosk
+- [https://thehosk.medium.com/](https://thehosk.medium.com/) Software dev (C#, Java) → Solution architect Dynamics 365, Power platform on enterprise projects - Avid reader - Life long learner - the Hosk
   - [Software development is a losers game](https://thehosk.medium.com/software-development-is-a-losers-game-fc68bb30d7eb)
 - [https://nmillard.medium.com/](https://nmillard.medium.com/) MSc. | Tech writer with +1M views. Sharing my opinion and what I learn. .NET backend engineer - Niclas Millard
 - [https://simplicable.com/new/software-development](https://simplicable.com/new/software-development)<!-- omit in link analyzer --> - Simplicable - Software development
@@ -95,6 +104,7 @@ A curated list of delightful blog and author resources.
 - [Youtube channel codeopinion](https://www.youtube.com/channel/UC3RKA4vunFAfrfxiJhPEplw) - Derek Comartin - Software architecture and design
 - [Youtube channel Nick Chapsas](https://www.youtube.com/c/Elfocrash) - Nick Chapsas - Enterprise grade coding & cloud tutorials for every level
 - [https://blog.ploeh.dk/](https://blog.ploeh.dk/) - Danish software design by Mark Seemann - dependency injection, functional code, patterns & practices
+- [DevIQ](https://deviq.com/) - reference site designed to help you learn about high-level software development topics like domain driven design, design patterns, and antipatterns.
 
 ## Thinking better
 
