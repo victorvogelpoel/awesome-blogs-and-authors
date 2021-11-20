@@ -42,6 +42,7 @@ A curated list of delightful blog and author resources.
 - [.NET NAKAMA](https://www.dotnetnakama.com/) - by Ioannis
 - [Damien Bod - Software Engineering](https://damienbod.com/)
 - [https://blog.georgekosmidis.net/](https://blog.georgekosmidis.net/) - by George Kosmidis - Microsoft MVP - Cloud Solutions Architect - .NET Software Engineer - Organizer of Munich .NET Meetup - Speaker
+- [Don't code tired](http://dontcodetired.com/blog/archive) - by Jason Roberts
   
 ## .NET links / News
 
