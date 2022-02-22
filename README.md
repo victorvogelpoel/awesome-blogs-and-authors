@@ -9,6 +9,7 @@ A curated list of delightful blog and author resources.
 - [.NET](#net)
 - [.NET links / News](#net-links--news)
 - [Agile](#agile)
+- [Cloud](#cloud)
 - [Engineering](#engineering)
 - [Food for thought](#food-for-thought)
 - [Insights](#insights)
@@ -43,6 +44,7 @@ A curated list of delightful blog and author resources.
 - [Damien Bod - Software Engineering](https://damienbod.com/)
 - [https://blog.georgekosmidis.net/](https://blog.georgekosmidis.net/) - by George Kosmidis - Microsoft MVP - Cloud Solutions Architect - .NET Software Engineer - Organizer of Munich .NET Meetup - Speaker
 - [Don't code tired](http://dontcodetired.com/blog/archive) - by Jason Roberts
+
   
 ## .NET links / News
 
@@ -56,6 +58,10 @@ A curated list of delightful blog and author resources.
 ## Agile
 
 - [https://twitter.com/allenholub](https://twitter.com/allenholub) - help build software better & build better software - Allen Holub
+
+## Cloud
+
+- [Tutorials for cloud](https://tutorialsforcloud.com/) - "to better teach the cloud without worrying too much about which language things were written in" - by Wade from South Island (NZ)
 
 ## Engineering
 
