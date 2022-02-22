@@ -50,10 +50,13 @@ A curated list of delightful blog and author resources.
 
 - [Meziantou Dev News](https://www.meziantou.net/news-links.htm) - Dev news by GÉRALD BARRÉ aka meziantou
 - [The Morning brew links](https://blog.cwa.me.uk/) - Software - Information - Community by Chris Alcock
+- [The Morning Dew links](https://www.alvinashcraft.com/) - Daily links for web, Windows and .NET developers - by Alvin Ashcraft
 - [Tech lead digest](https://techleaddigest.net/digests) - Weekly news for busy techies - Tech Lead Digest is a weekly newsletter with five interesting stories about building teams 🤼, leadership 👨‍✈️, and engineering culture 🕺🏻. 
-- [C# digest](https://csharpdigest.net/digests) - Weekly news for busy techies - C# Digest is a weekly newsletter with the five most interesting stories 🗞 in .NET and C# 
+- [C# digest](https://csharpdigest.net/digests) - Weekly news for busy techies - C# Digest is a weekly newsletter with the five most interesting stories in .NET and C# 
 - [Software lead weekly](https://softwareleadweekly.com/) - SWLW - A weekly email for busy people who care about people, culture and leadership by Oren Ellenbogen
 - [Dotnetkicks](https://dotnetkicks.com/) - a hand-picked round up of the best .NET articles every day
+- [The Wolf Report](https://michael-wolfenden.github.io/) - Handcrafted artisan links by Michael Wolfenden
+- [Interesting links of the week](https://samestuffdifferentday.com/) - by Michael Eaton
 
 ## Agile
 
