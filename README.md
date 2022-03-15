@@ -57,6 +57,7 @@ A curated list of delightful blog and author resources.
 - [Dotnetkicks](https://dotnetkicks.com/) - a hand-picked round up of the best .NET articles every day
 - [The Wolf Report](https://michael-wolfenden.github.io/) - Handcrafted artisan links by Michael Wolfenden
 - [Interesting links of the week](https://samestuffdifferentday.com/) - by Michael Eaton
+- [Architecture Weekly](https://www.architecture-weekly.com/) - by Oskar Dudycz
 
 ## Agile
 
@@ -115,6 +116,7 @@ A curated list of delightful blog and author resources.
 - [Youtube channel Nick Chapsas](https://www.youtube.com/c/Elfocrash) - Nick Chapsas - Enterprise grade coding & cloud tutorials for every level
 - [https://blog.ploeh.dk/](https://blog.ploeh.dk/) - Danish software design by Mark Seemann - dependency injection, functional code, patterns & practices
 - [DevIQ](https://deviq.com/) - reference site designed to help you learn about high-level software development topics like domain driven design, design patterns, and antipatterns.
+- [Architecture Weekly](https://www.architecture-weekly.com/) - by Oskar Dudycz
 
 ## Thinking better
 
