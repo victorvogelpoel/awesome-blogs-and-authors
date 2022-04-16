@@ -44,7 +44,7 @@ A curated list of delightful blog and author resources.
 - [Damien Bod - Software Engineering](https://damienbod.com/)
 - [https://blog.georgekosmidis.net/](https://blog.georgekosmidis.net/) - by George Kosmidis - Microsoft MVP - Cloud Solutions Architect - .NET Software Engineer - Organizer of Munich .NET Meetup - Speaker
 - [Don't code tired](http://dontcodetired.com/blog/archive) - by Jason Roberts
-
+- [Hoovermind](https://hoovermind.com) - ASP.NET Core, Blazor, Entity Framework, Serilog, Signal R, xUnit - by Hassan MD Tareq
   
 ## .NET links / News
 
@@ -66,6 +66,8 @@ A curated list of delightful blog and author resources.
 ## Cloud
 
 - [Tutorials for cloud](https://tutorialsforcloud.com/) - "to better teach the cloud without worrying too much about which language things were written in" - by Wade from South Island (NZ)
+- [Hoovermind](https://hoovermind.com) -Azure services, DevOps, Container - by Hassan MD Tareq
+
 
 ## Engineering
 
@@ -101,6 +103,7 @@ A curated list of delightful blog and author resources.
 - [Youtube channel Nick Chapsas](https://www.youtube.com/c/Elfocrash) - Nick Chapsas - Enterprise grade coding & cloud tutorials for every level
 - [Youtube channel Training By Tim](https://www.youtube.com/user/IAmTimCorey) - Tim Corey - Training by Tim
 - [https://blog.ploeh.dk/](https://blog.ploeh.dk/) - Danish software design by Mark Seemann - dependency injection, functional code, patterns & practices
+- [Hoovermind](https://hoovermind.com) - DevOps - by Hassan MD Tareq
 
 ## Software Architecture
 
