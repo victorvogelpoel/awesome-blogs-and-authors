@@ -84,6 +84,7 @@ A curated list of delightful blog and author resources.
 
 - [https://twitter.com/RichRogers_](https://twitter.com/RichRogers_) - Founder & CEO of @XemelgoInc
 - [https://twitter.com/ValaAfshar](https://twitter.com/ValaAfshar) - Chief digital evangelist @Salesforce
+- [https://twitter.com/alexbunardzic](https://twitter.com/alexbunardzic) - Director of Business Automation at Digital Exprt
 
 ## Personal development
 
@@ -104,6 +105,7 @@ A curated list of delightful blog and author resources.
 - [Youtube channel Training By Tim](https://www.youtube.com/user/IAmTimCorey) - Tim Corey - Training by Tim
 - [https://blog.ploeh.dk/](https://blog.ploeh.dk/) - Danish software design by Mark Seemann - dependency injection, functional code, patterns & practices
 - [Hovermind](https://hovermind.com) - DevOps - by Hassan MD Tareq
+- [https://twitter.com/alexbunardzic](https://twitter.com/alexbunardzic) - Director of Business Automation at Digital Exprt
 
 ## Software Architecture
 
